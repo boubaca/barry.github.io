@@ -320,7 +320,7 @@ p {
 }
 
 .project-link.project-6 {
-  background-image: url('../images/sunrise.jpg');
+  background-image: url('../images/project1.JPG');
 }
 
 .project-link.project-7 {
@@ -530,10 +530,11 @@ p {
 
 .profile-photo {
   height: 390px;
-  background-image: url('../images/camera-man.jpg');
+  background-image: url('../images/20181229_190413.jpg');
   background-position: 50% 0px;
   background-size: cover;
   background-repeat: no-repeat;
+
 }
 
 .work-type {
